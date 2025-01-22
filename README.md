@@ -13,7 +13,8 @@ Objectives of this tutorial or guidelines for report:
 - Choice of forcefields, time steps, integrators, temperature, pressure, volume of box, PBC
 - How do you enforce constant temperature or pressure
 - How does equilibration protocol influence simulation? Why should you equilibrate.
-2. Figure out role of water in ligand binding/unbinding processes. Find out which protein residues are interacting with the ligand.
-3. How does simulation temperature influence ligand unbinding and protein conformational changes? What kind of quantitative analysis would give you some idea about the effect of temperature?
-4. Do some literature search to figure out unbinding pathways of ligands from T4-Lysozyme. Can you comment something about unbinding pathways from your simulations?
+2. Find out which protein residues are interacting with the ligand.
+3. How does simulation temperature influence ligand unbinding and protein conformational changes?
+4. What kind of quantitative analysis would give you some idea about the effect of temperature?
+
   
